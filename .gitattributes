@@ -1,0 +1,2 @@
+# Change Juptyer notebook format to Python
+*.ipynb linguist-language=Python
